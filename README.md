@@ -8,6 +8,6 @@ I'm 24 years old and in my third year of a computer science program at my Univer
 
 *   🌍  I'm based in Madagascar
 *   ✉️  You can contact me at [mendrikarkt18@gmail.com](mailto:mendrikarkt18@gmail.com)
-*   🧠  I'm currentl learning some languages to specialized especially Dart/Flutter for Mobile, Java for Software, Python for AI and JS for Web
+*   🧠  I'm currently learning Dart/Flutter,JAVA, Python and JS but i'm more specialized in Web & Mobile Application included with AI
 *   🤝  I'm open to collaborating on Interesting projects and innovative solutions
 *   ⚡  Fun fact: keen about new technologies and developing revolutionary application but also interested in music and gaming.### Skills 
