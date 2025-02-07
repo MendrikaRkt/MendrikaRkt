@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mendrika
 ================================================================================================================================
 
-Web Developer and AI enthusiast
+Web and Mobile Developer and AI enthusiast
 -------------------------------
 
 I'm 24 years old and in my third year of a computer science program at my University, specializing in electronic engineering and artificial intelligence. I'm still learning but I'm open to any collaboration on projects or job opportunities.
 
 *   🌍  I'm based in Madagascar
 *   ✉️  You can contact me at [mendrikarkt18@gmail.com](mailto:mendrikarkt18@gmail.com)
-*   🧠  I'm learning Java and Python
+*   🧠  I'm currentl learning some languages to specialized especially Dart/Flutter for Mobile, Java for Software, Python for AI and JS for Web
 *   🤝  I'm open to collaborating on Interesting projects and innovative solutions
 *   ⚡  Fun fact: keen about new technologies and developing revolutionary application but also interested in music and gaming.### Skills 
